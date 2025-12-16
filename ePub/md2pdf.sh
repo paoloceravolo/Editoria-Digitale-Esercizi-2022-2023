@@ -8,7 +8,7 @@ pandoc "$1" \
 -V geometry:margin=2cm \
 -V mainfont="Palatino" \
 -V monofont="Palatino" \
--V fontsize=12pt \
+-V fontsize=14pt \
 --pdf-engine=xelatex \
 --highlight-style  kate \
 --toc \
